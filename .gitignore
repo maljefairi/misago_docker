@@ -9,3 +9,4 @@ __pycache__/
 # OS files
 .DS_Store
 thumbs.db
+misago.env
